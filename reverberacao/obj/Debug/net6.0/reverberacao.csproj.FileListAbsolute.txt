@@ -1,0 +1,14 @@
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\obj\Debug\net6.0\reverberacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\obj\Debug\net6.0\reverberacao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\obj\Debug\net6.0\reverberacao.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\obj\Debug\net6.0\reverberacao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\bin\Debug\net6.0\reverberacao.exe
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\bin\Debug\net6.0\reverberacao.deps.json
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\bin\Debug\net6.0\reverberacao.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\bin\Debug\net6.0\reverberacao.dll
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\bin\Debug\net6.0\reverberacao.pdb
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\obj\Debug\net6.0\reverberacao.dll
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\obj\Debug\net6.0\refint\reverberacao.dll
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\obj\Debug\net6.0\reverberacao.pdb
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\obj\Debug\net6.0\reverberacao.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\APIs\reverberacao\reverberacao\obj\Debug\net6.0\ref\reverberacao.dll
