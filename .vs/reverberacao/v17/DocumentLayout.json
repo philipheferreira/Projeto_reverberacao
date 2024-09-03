@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{70CD6036-1ED4-4567-A276-144FC12F8B28}|reverberacao\\reverberacao.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\apis\\projeto_reverberacao\\reverberacao\\operacaomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70CD6036-1ED4-4567-A276-144FC12F8B28}|reverberacao\\reverberacao.csproj|solutionrelative:reverberacao\\operacaomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CD6036-1ED4-4567-A276-144FC12F8B28}|reverberacao\\reverberacao.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\apis\\projeto_reverberacao\\reverberacao\\infomateriais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CD6036-1ED4-4567-A276-144FC12F8B28}|reverberacao\\reverberacao.csproj|solutionrelative:reverberacao\\infomateriais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfoMateriais.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\Projeto_reverberacao\\reverberacao\\InfoMateriais.cs",
+              "RelativeDocumentMoniker": "reverberacao\\InfoMateriais.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\Projeto_reverberacao\\reverberacao\\InfoMateriais.cs",
+              "RelativeToolTip": "reverberacao\\InfoMateriais.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:26:21.847Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "reverberacao\\OperacaoMenu.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\Projeto_reverberacao\\reverberacao\\OperacaoMenu.cs",
               "RelativeToolTip": "reverberacao\\OperacaoMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T12:04:57.041Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "reverberacao\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\Projeto_reverberacao\\reverberacao\\Program.cs",
               "RelativeToolTip": "reverberacao\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T12:33:58.621Z",
               "EditorCaption": ""
