@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 namespace materiais{
     internal class InfoMateriais{
 
-        public string Material { get; set; };
-        public string TipoDeMaterial {  get; set; }
+        public string Material { get; set; }
+        public string TipoDeMaterial { get; set; } = "arroz";
 
         public float freq1 { get; set; }
 
