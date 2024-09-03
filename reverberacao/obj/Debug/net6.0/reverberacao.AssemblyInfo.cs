@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("reverberacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da8fd09f6729a26c5d28a92e97cb3dc115cef67b")]
 [assembly: System.Reflection.AssemblyProductAttribute("reverberacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("reverberacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

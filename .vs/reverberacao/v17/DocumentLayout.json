@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\Projeto_reverberacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70CD6036-1ED4-4567-A276-144FC12F8B28}|reverberacao\\reverberacao.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\apis\\projeto_reverberacao\\reverberacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CD6036-1ED4-4567-A276-144FC12F8B28}|reverberacao\\reverberacao.csproj|solutionrelative:reverberacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CD6036-1ED4-4567-A276-144FC12F8B28}|reverberacao\\reverberacao.csproj|c:\\users\\user\\documents\\estudo\\programa\u00E7\u00E3o\\c#\\apis\\projeto_reverberacao\\reverberacao\\operacaomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CD6036-1ED4-4567-A276-144FC12F8B28}|reverberacao\\reverberacao.csproj|solutionrelative:reverberacao\\operacaomenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperacaoMenu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\Projeto_reverberacao\\reverberacao\\OperacaoMenu.cs",
+              "RelativeDocumentMoniker": "reverberacao\\OperacaoMenu.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\Projeto_reverberacao\\reverberacao\\OperacaoMenu.cs",
+              "RelativeToolTip": "reverberacao\\OperacaoMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:04:57.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\Projeto_reverberacao\\reverberacao\\Program.cs",
+              "RelativeDocumentMoniker": "reverberacao\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\estudo\\programa\u00E7\u00E3o\\C#\\APIs\\Projeto_reverberacao\\reverberacao\\Program.cs",
+              "RelativeToolTip": "reverberacao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:33:58.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

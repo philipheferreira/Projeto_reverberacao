@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\APIs\\reverberacao\\reverberacao\\reverberacao.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\APIs\\Projeto_reverberacao\\reverberacao\\reverberacao.csproj",
       "projectName": "reverberacao",
-      "projectPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\APIs\\reverberacao\\reverberacao\\reverberacao.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\APIs\\Projeto_reverberacao\\reverberacao\\reverberacao.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\APIs\\reverberacao\\reverberacao\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\APIs\\Projeto_reverberacao\\reverberacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
